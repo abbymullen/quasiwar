@@ -93,7 +93,7 @@ var greenIcon = new customIcon({iconUrl: 'green_dot.png'}),
     blueIcon = new customIcon({iconUrl: 'blue_dot.png'}),
     brownIcon = new customIcon({iconUrl: 'brown_dot.png'});
 
-var french = omnivore.csv('QW_Encounters_French.csv')
+var french = omnivore.csv('QW_Encounters.csv')
 .on('ready', function() {
   map.addLayer(french);
   french.eachLayer(eachLayer);
