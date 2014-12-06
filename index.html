@@ -71,7 +71,7 @@ var map = L.map('map', {
     layer.bindPopup(popupText(feature.properties), 
       {maxWidth: 300, minWidth: 250, maxHeight: 160, autoPan: true, closeButton: true, autoPanPadding: [5, 5]}
       );
-        // layer.setIcon(redIcon);
+        layer.setIcon(redIcon);
 
   // }
 }
@@ -82,7 +82,6 @@ function popupText(f) {
 
 var customIcon = L.Icon.extend({
   options: {
-    // iconUrl: 'filled13.png',
     iconSize: [9, 9], //size of the icon in pixels
     iconAnchor: [0, 0], //point of the icon which will correspond to marker's location (the center)
     popupAnchor: [0, 0] //point from which the popup should open relative to the iconAnchor
@@ -98,27 +97,24 @@ var french = omnivore.csv('QW_Encounters_French.csv')
 .on('ready', function() {
   map.addLayer(french);
   french.eachLayer(eachLayer);
- // marker.setIcon(greenIcon);
-    // var popupText =
-    //   marker.toGeoJSON().properties.date + "<br>" + "<strong>" + properties.ship_1 + " (" + properties.nationality_1 + ") v. " + properties.ship_2 + " (" + properties.nationality_2 + ") " + "</strong>"+ "<br>"  + properties.outcome;
-            // if (marker.toGeoJSON().properties.outcome === 'Captured by French') {
-            //   marker.setIcon(L.icon({
-            //         'marker-color': '#ff8888',
-            //         // 'marker-size': 'large'
-            //     }));
-            // } else {
-            //     marker.setIcon(L.icon({}));
-            // };
-    // marker.bindPopup(popupText);
-        // });
+  french.eachLayer(function(marker) {
+    if (marker.toGeoJSON().properties.victor === 'French') {
+      marker.setIcon(greenIcon);
+    } else if (marker.toGeoJSON().properties.victor === 'American') {
+      marker.setIcon(redIcon); 
+    } else if (marker.toGeoJSON().properties.victor === 'British') {
+      marker.setIcon(blueIcon);
+    } else {
+      marker.setIcon(brownIcon)};
+});
 });
 
-var american = omnivore.csv('QW_Encounters_American.csv')
-.on('ready', function() {
-  map.addLayer(american);
-  american.eachLayer(eachLayer);
-  layer.setIcon(greenIcon);
-});
+// var american = omnivore.csv('QW_Encounters_American.csv')
+// .on('ready', function() {
+//   map.addLayer(american);
+//   american.eachLayer(eachLayer);
+//   // american.setIcon(greenIcon);
+// });
 
 
 
@@ -130,7 +126,7 @@ var overlayMaps = {
 	"1787": layer1,
 	// "1881": layer2,
 	"French": french,
-  "American": american
+  // "American": american
 };
 
 
