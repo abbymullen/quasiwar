@@ -71,7 +71,7 @@ var map = L.map('map', {
     layer.bindPopup(popupText(feature.properties), 
       {maxWidth: 300, minWidth: 250, maxHeight: 160, autoPan: true, closeButton: true, autoPanPadding: [5, 5]}
       );
-        layer.setIcon(greenIcon);
+        // layer.setIcon(redIcon);
 
   // }
 }
@@ -94,10 +94,10 @@ var greenIcon = new customIcon({iconUrl: 'green_dot.png'}),
     blueIcon = new customIcon({iconUrl: 'blue_dot.png'}),
     brownIcon = new customIcon({iconUrl: 'brown_dot.png'});
 
-var annotations = omnivore.csv('QW_Encounters.tsv')
+var french = omnivore.csv('QW_Encounters_French.csv')
 .on('ready', function() {
-  map.addLayer(annotations);
-  annotations.eachLayer(eachLayer);
+  map.addLayer(french);
+  french.eachLayer(eachLayer);
  // marker.setIcon(greenIcon);
     // var popupText =
     //   marker.toGeoJSON().properties.date + "<br>" + "<strong>" + properties.ship_1 + " (" + properties.nationality_1 + ") v. " + properties.ship_2 + " (" + properties.nationality_2 + ") " + "</strong>"+ "<br>"  + properties.outcome;
@@ -113,6 +113,13 @@ var annotations = omnivore.csv('QW_Encounters.tsv')
         // });
 });
 
+var american = omnivore.csv('QW_Encounters_American.csv')
+.on('ready', function() {
+  map.addLayer(american);
+  american.eachLayer(eachLayer);
+  layer.setIcon(greenIcon);
+});
+
 
 
 var baseMaps = {
@@ -122,7 +129,8 @@ var baseMaps = {
 var overlayMaps = {
 	"1787": layer1,
 	// "1881": layer2,
-	"Encounters": annotations
+	"French": french,
+  "American": american
 };
 
 
