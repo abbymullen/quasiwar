@@ -1,0 +1,43 @@
+date,ship_1,type,nationality_1,ship_2,nationality_2,location,latitude,longitude,outcome,source,type,status
+6/3/1798,Luna,armed barque,USA,6 privateers,France,near Tortola,18.472359,-64.672053,in convoy Luna captured 6 privateers,QW2:177,Captured by Americans,MP
+2/3/1799,United States,frigate,USA,L'Amour de la Patrie,France,windward of Martinique,15.08,-60.68,United States sunk privateer,QW2:305,Sunk by Americans,NP
+2/9/1799,Constellation,frigate,USA,L'Insurgente,France,Nevis WSW 5 leagues,17.2652777,-62.29694,Constellation captured L'Insurgente,QW2:327,Captured by Americans,NN
+3/4/1799,Delaware,,USA,Marsouin,France,off Moro Castle,23.614626,-82.751741,Delaware captured the Marsouin,QW2:421,Captured by Americans,NP
+3/7/1799,Constellation,frigate,USA,Union (letter of marque),France,off Basseterre Roads Guadeloupe,15.984396,-61.751469,Constellation captured Union,QW2:458,Captured by Americans,NP
+8/23/1798,United States and Delaware,frigate and sloop,USA,Sans Pareil,France,northwest of Martinique,14.984034,-61.560056,Sans Pareil captured,QW2:479,Captured by Americans,NP
+9/5/1798,United States and Delaware,frigate and sloop,USA,Jaloux,France,near San Juan,18.830375,-66.108395,Jaloux captured,QW2:479,Captured by Americans,NP
+2/4/1799,United States,frigate,USA,Tartuffe,France,NE of St Lucia,14.261394,-60.687452,Tartuffe captured,QW2:479,Captured by Americans,NP
+3/1/1799,Montezuma,brig,USA,Les Amis,France,S of St Croix,17.623694,-64.831874,Les Amis captured,QW2:479,Captured by Americans,NP
+4/17/1799,Constellation and L'Insurgente,frigate,USA,Diligente,France,Guadeloupe NNE 8 leagues,15.5638,-61.824,Dilgente captured ,QW3:63,Captured by Americans,NP
+4/17/1799?,Eagle,brig,USA,Bon Pierre,France,5 leagues to windward of Antigua,17.0863,-61.4105,Bon Pierre captured,QW3:157,Captured by Americans,MP
+6/16/1799,Ganges,ship,USA,Vainqueure,France,NEbN of St. Bartholomews 16 or 18 leagues,18.6125,-62.38694,Vainqueure captured,QW3:346,Captured by Americans,NP
+6/29/1799,Merrimack,sloop of war,USA,la Magicienne,France,east of Deseada,16.339337,-60.86402,Magicienne captured,QW3:495,Captured by Americans,NP
+8/5/1799,Ganges,ship,USA,La Rabateuse,France,12 mi windward of St. Bartholomews,17.907,-62.606,La Rabateuse,QW4:29,Captured by Americans,NP
+8/21/1799,USS Portsmouth,ship,USA,Hussar,France,Surinam River mouth,5.936358,-55.198509,Hussar given up to Portsmouth after days of confinement,QW4:67,Captured by Americans,NP
+8/22/1799,USS Pinckney,brig,USA,Adelaide,France,2 leagues east of Moro,23.15,-82.47,Adelaide captured,QW4:106,Captured by Americans,NP
+11/18/1799,USRC Pickering,revenue cutter,USA,L'Egypte Conquise,France,off Point Petre,16.19408,-61.533533,L'Eypte Conquise captured,QW4:295,Captured by Americans,NP
+10/29/1799,USS Delaware,ship,USA,Ocean,France,near St. Kitts,17.406937,-62.558455,Ocean captured,QW4:337,Captured by Americans,NP
+11/20/1799,Nancy,schooner,France,Adams and Insurgente,USA,near Guadeloupe,16.008158,-62.027501,Nancy recaptured,QW4:422,Captured by Americans,MP
+12/1/1799,Weymouth,schooner,France,USS General Greene,USA,near Puerto Rico,18.8,-66,Weymouth recaptured,QW4:423,Recaptured by Americans,NP
+11/30/1799,USS Adams,ship,USA,Le Onze Vandemare,France,near Guadeloupe,16,-62,Le Onze Vandemare captured,QW4:463,Captured by Americans,NP
+12/29/1799,USS Connecticut,ship,USA,Conqueror of Italy,France,near Point Petre,16,-61.5,Conqueror of Italy captured,QW4:577,Captured by Americans,NP
+1/1/1800,USS Experiment,schooner,USA,10 barges,France,channel between Gonaib and Trou Corvet,18.957961,-72.906951,sunk two barges,QW5:1,Captured by Americans,NP
+1/12/1800,USS Baltimore,ship,USA,La Brilliant Jeunesse,France,10o40'N 60o12'W,10.66,-60.2,captured La Brilliant Jeunesse,QW5:69,Captured by Americans,NP
+1/14/1800,USS Connecticut,ship,USA,privateer,France,up to shore of Deseada,16.316438,-61.030961,privateer struck and sunk,QW5:73,Sunk by Americans,NP
+1/21/1800,USS Herald,ship,USA,La Mutine,France,off San Juan Puerto Rico,18.491981,-66.081344,La Mutine captured,QW5:111,Captured by Americans,NP
+2/18/1800,USS Experiment,schooner,USA,L'Legere,France,between St. Jago and Jeremie,17.306855,-54.300071,L'Legere captured,QW5:229,Captured by Americans,NP
+3/4/1800,USS Boston,ship,USA,La Fortune,France,off Cape Tiburon,18.319839,-74.403427,Boston boarded Fortune,QW5:271,Boarded by Americans,NP
+3/26/1800,USS Boston,ship,USA,Happy,France,off Cape Tiburon,18.319839,-74.403427,Happy captured,QW5:271,Captured by Americans,NP
+3/11/1800,USS General Greene,ship,USA,armed schooner,France,off Jacmel,18.065319,-72.519399,General Greene captured the schooner,QW5:318,Captured by Americans,NP
+4/3/1800,USS John Adams,ship,USA,La Jason,France,south point of Martinique W half; St. Lucia SW 9 leagues,14.43,-60.6,La Jason captured,QW5:341,Captured by Americans,NP
+1/10/1800?,USS Boston,frigate,USA,Deux Anges,France,near Cape Francois?,19.791075,-72.124386,Deux Anges captured,QW5:430,Captured by Americans,NP
+5/12/1800,USS Constitution,frigate,USA,Sandwich,France,Port Plate,19.805354,-70.699644,Sandwich cut out by Isaac Hull in the harbor,QW5:504,Captured by Americans,NP
+6/2/1800,Experiment,armed schooner,USA,privateer,France,near Cape Nicola Mole,19.813308,-73.432023,privateer captured,QW6:4,Captured by Americans,MP
+6/3/1800,USS Augusta,brig,USA,La Victoire and La Jeanne,France,off Jacmel,18.065,-72.519,privateers captured,QW6:8,Captured by Americans,NP
+6/1/1800,USS Connecticut,ship,USA,Le Piege,France,off Descada,16.375623,-61.01454,Le Piege captured,QW6:28,Captured by Americans,NP
+6/5/1800,USS Connecticut,ship,USA,La Unite,France,near St. Kitts,17.493129,-62.716566,La Unite captured,QW6:29,Captured by Americans,NP
+6/13/1800,USS John Adams,ship,USA,La Decade,France,off Guadeloupe,16.506357,-61.16494,La Decade captured,QW6:45,Captured by Americans,NP
+6/17/1800,USS Enterprize,ship,USA,La Cygne,France,off Guadeloupe,16.5,-61.164,La Cygne captured,QW6:57,Captured by Americans,NP
+7/7/1798,USS Delaware,sloop,USA,Le Croyable,France,off Great Egg Harbour Bay,39.247643,-74.383778,Croyable captured,QW1:176,Captured by Americans,NP
+9/9/1798,USS Constitution,frigate,USA,Niger,France,lat 34o11,34.180014,-71.877103,Niger captured,QW1:385,Captured by Americans,NP
+11/20/1798,USS Baltimore,sloop,USA,privateer,France,off Havana,23.261529,-82.404379,privateer captured,QW2:21,Captured by Americans,NP

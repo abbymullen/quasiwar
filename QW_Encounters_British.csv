@@ -1,0 +1,7 @@
+date,ship_1,type,nationality_1,ship_2,nationality_2,location,latitude,longitude,outcome,source,type,status
+2/21/1798,Eliza,armed merchant ship,USA,Nymphe Phaeton Mermaid,Britain,49o10'N 10o30'W,49.16667,-10.5,Eliza recaptured from French and taken to Plymouth,QW2:163,Recaptured by British,MN
+3/14/1799,Cygnet,ship,USA,John and Edward,Britain,under Cuba,19.963375,-81.104537,John and Edward captured Cygnet,QW2:462,Captured by British,MP
+4/9/1799,Fair Columbian,brig,USA,HMS Hinde,Britain,29o9'N 78o48'W,29.15,-78.8,Fair Columbian captured,QW3:35,Captured by British,MN
+4/14/1799,General Washington,ship,USA,HMS Lynx,Britain,near Hole-in-the-Wall,25.789598,-77.210579,General Washington captured,QW3:45,Captured by British,MN
+4/18/1799,Susanna,brig,USA,Earl of Moira (privateer),Britain,Highlands of Neversinks NWbW 12 miles,40.390357,-73.417511,Susanna captured,QW3:65,Captured by British,MP
+8/7/1799,Maria,brig,USA,privateer,England,near Hole-in-the-Wall,25.7,-77.2,Maria captured and 4 men pressed,QW4:43,Captured by British,MP
