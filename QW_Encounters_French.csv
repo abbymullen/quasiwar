@@ -1,136 +1,227 @@
-date,ship_1,type,nationality_1,ship_2,nationality_2,location,latitude,longitude,outcome,source,type,status,
-5/25/1798,Diana,armed merchant ship,USA,Jean Bart,France,38o30'N 70o30'W,38.5,-70.5,Diana captured,QW2:160,Captured by French,MP,
-5/21/1798,Olive,schooner,USA,8540,France,39N 72o30'W,39,-72.5,Olive captured,QW2:161,Captured by French,MP,
-7/26/1798,Eliza,armed merchant ship,USA,L'Heureux Decide,France,near London,51.67876,1.722132,Eliza captured after 2-hour battle,QW2:162,Captured by French,MP,
-12/16/1798,Factor,armed merchant ship,USA,Intrepid,France,en route to London from New York,41.136558,-29.808629,Factor captured but escaped under 1st mate next day,QW2:164,Captured by French,MP,
-3/16/1798,Fame,armed merchant ship,USA,La Vengeance,France,22o45'N. Longitude 68o52'W,22.75,-68.86667,Fame captured,QW2:165,Captured by French,MP,
-12/10/1798,Hannah,armed schooner,USA,Filibustier,France,6 leagues off Malaga,36.56305556,-4.1075,captured by Filibustier,QW2:169,Captured by French,MP,
-9/14/1798,Hannah,armed merchant ship,USA,La Vengeance,France,between London and Portsmouth VA,37.625056,-69.455751,captured by La Vengeance,QW2:169,Captured by French,MP,
-11/4/1798,Highlander,armed schooner,USA,privateer,France,19o10'N 50oW,19.16666667,-50,captured by privateer,QW2:171,Captured by French,MP,
-6/3/1798,Hunter,armed merchant ship,USA,La Bonne Mere,France,near Guadeloupe,16.731527,-60.88355,captured by privateer,QW2:172,Captured by French,MP,
-8/1/1798,Nancy,armed brig,USA,privateer,France,off Madeira,32.529722,-17.433004,captured by privateer; master retook brig,QW2:181,Captured by French,MP,
-2/13/1798,New Jersey,armed merchant ship,USA,La Bourdaine,France,23o30' N 62o,23.5,-62,captured by La Bourdaine,QW2:182,Captured by French,MP,
-9/14/1798,Reindeer,armed merchant ship,USA,privateer,France,near Martinique,15.329993,-59.913865,captured,QW2:188,Captured by French,MP,
-12/23/1798,Republican,armed merchant ship,USA,Spartiate,France,4o16'N 37o5'W,4.266,-37.0833,captured by Spartiate,QW2:188,Captured by French,MP,
-5/6/1798,Trial,armed merchant ship,USA,Escamoteur,France,30o40'N 19o50'W,30.666,-19.833,captured by Escamoteur,QW2:193,Captured by French,MP,
-6/1/1798,Triton,armed galliot,USA,2 privateers,France,around Martinique,14.958827,-62.451707,captured by second privateer; all crew put to death,QW2:194,Captured by French,MP,
-12/18/1798,Vulture,armed brig,USA,Furet,France,23o12'N 53o30'W,23.2,-53.5,captured,QW2:195,Captured by French,MP,
-1/10/1799,Amazon,letter of marque schooner,USA,Flower of the Sea,France,10 leagues eastward of Lageira,10.6816,-66.4477,captured by Flower of the Sea,QW2:227,Captured by French,PP,
-12/28/1798,Henry,sloop,USA,privateer,France,20oN 62o30'W,20,-62.5,chased by privateer,QW2:227,Captured by French,MP,
-1/9/1799,Henry,sloop,USA,packet,Spain,22o10'N 71o40'W,22.1666,-71.666,captured and taken to Havana,QW2:228,Captured by French,MP,
-1/24/1799,Diana,armed brig,USA,Du Gommier. Don Quixote,France,off Malaga,36.427059,-4.35039,captured and taken to Malaga,QW2:278,Captured by French,MP,
-2/5/1799,Appollo,schooner,USA,schooner,France,24oN,23.609501,-58.65522,Appollo captured but then retaken by master,QW2:315,Captured by French,MP,
-2/5/1799,Venus,schooner,USA,schooner,France,24oN,23.609501,-58.65522,Venus captured,QW2:315,Captured by French,MP,
-2/9/1799,Concord,ship,USA,Le Prudent,France,off Cape of Good Hope,-34.863381,17.627787,Concord captured,QW2:317,Captured by French,MP,
-2/13/1799,Maria,schooner,USA,Adolphus,France,near Cadiz,36.439089,-6.757626,Maria captured by Adolphus and 5 other privateers,QW2:350,Captured by French,MP,
-2/8/1799,Betsey,schooner,USA,Republican,France,59o58'N 17o27'W,59.9666,-17.45,Betsey captured,QW2:403,Captured by French,MP,
-2/26/1799,Amity,schooner,USA,La Zaboa,France,Cape Antonio 5 or 6 leagues distant,21.89194,-85.28861,Amity captured,QW2:407,Captured by French,MP,
-4/2/1799,Brilliant,sloop,USA,Prudent,France,between Kingston and Savannah,28.572481,-74.603391,Brilliant sunk,QW2:407,Captured by French,MP,
-4/2/1799,Betsy,schooner,USA,Prudent,France,between Kingston and Savannah,28.572481,-74.603391,Betsy sunk,QW2:407,Captured by French,MP,
-11/20/1798,Retaliation,schooner,USA,L'Insurgente and La Volontaire,France,south of Desceada,16.243134,-61.053311,Retaliation captured,QW2:479,Captured by French,NN,
-3/24/1799,unknown (Capt. A. Gordon),ship,USA,privateer,France,23o20'n 61o10'w,23.333,-61.1666,captured by privateer,QW2:509,Captured by French,MP,
-3/24/1799,Lydia,schooner,USA,privateer,France,23o20'n 61o10'w,23.333,-61.1666,captured by privateer,QW2:509,Captured by French,MP,
-3/30/1799,Nymph,armed brig,USA,Gironda,France,42oN 34o11'W,42,-34.1833,Gironda captured Nymph,QW2:535,Captured by French,MP,
-3/30/1799,Minerva,schooner,USA,Gironda,France,42oN 34o11'W,42,-34.1833,Gironda captured Minerva,QW2:539,Captured by French,MP,
-3/22/1799,Henry,ship,USA,privateer,France,31.5oN,31.680579,-71.273305,Henry captured,QW3:2,Captured by French,MP,
-4/2/1799,Harmony,brig,USA,privateer,France,33N 26W,33,-26,Harmony captured,QW3:15,Captured by French,MP,
-4/15/1799,Britannia,ship,USA,privateer,France,near Jamaica,18.798659,-79.169904,Britannia captured,QW3:54,Captured by French,MP,
-4/15/1799,Brothers,ship,USA,privateer,France,Montserrat NNE 12 leagues,16.10916,-62.3775,Brothers boarded and pillaged,QW3:55,Boarded by French,MP,
-4/28/1799,Fair American,brig,USA,3 privateer,France,windward of Barbuda,32.314535,-64.421013,Fair American captured,QW3:109,Captured by French,MP,
-4/30/1799,Orange,schooner,USA,Scrutin,France,windward of Guadeloupe,16.281218,-60.65833,Orange captured,QW3:112,Captured by French,MP,
-5/1/1799,Polly,schooner,USA,privateer,France,28oN 72oW,28,-72,Polly captured,QW3:118,Captured by French,MP,
-4/30/1799,Francis,schooner,USA,2 letters of marque,France,Deseada bearing SbW 10 leagues,16.7038,-60.638,Francis captured,QW3:120,Captured by French,MP,
-5/11/1799,Mary Ann,ship,USA,4 privateers,France,3 leagues south of Cape Trafalgar,36.0305,-6.03361,Mary Ann captured,QW3:170,Captured by French,MP,
-5/13/1799,Union,sloop,USA,Alliance,France (Guadeloupe),20o25'N 62oW,20.416,-62,Union captured,QW3:181,Captured by French,MP,
-5/13/1799,[unknown],brig,USA,La Victoire,France,24o16'N 63o41'W,24.266,-63.6833,brig captured,QW3:182,Captured by French,MP,
-5/16/1799,Ardent,ship,USA,5 privateers,France,straits of Gibraltar,35.992099,-5.422955,ship captured,QW3:195,Captured by French,MP,
-5/27/1799,Harmony,ship,USA,Le Surges,France,lat 41o42',41.854806,-19.579037,Harmony captured,QW3:263,Captured by French,MP,
-6/17/1799,Robertson,brig,USA,Lodolph and another,France,between Cadiz and the Straits of Gibraltar,36.042565,-6.30444,Robertson captured,QW3:355,Captured by French,MP,
-6/12/1799,George,brig,USA,privateer,France,off Mudfort (near Cayenne),5.238784,-52.406659,George captured,QW3:357,Captured by French,MP,
-6/12/1799,John,schooner,USA,privateer,France,off Mudfort (near Cayenne),5.238784,-52.406659,John captured,QW3:357,Captured by French,MP,
-6/20/1799,Peyton Randolph,brig,USA,Revenge,France,15o30'N 56o50'W,15.5,-55.83,Peyton Randolp captured,QW3:374,Captured by French,MP,
-6/24/1799,Commerce,ship,USA,La Mouche,France,between Bordeaux and Cadiz,41.36864,-11.792195,Commerce captured,QW3:396,Captured by French,MP,
-6/24/1799,Ann,ship,USA,La Mouche,France,36oN 11o30'W,36,-11.5,Ann captured,QW3:397,Captured by French,MP,
-6/30/1799,Mary Ann,ship,USA,La Roman,France,near Barcelona,41.331659,2.257944,Mary Ann captured (again),QW3:435,Captured by French,MP,
-7/6/1799,Hope ,schooner,USA,privateer,France,windward of Surinam River,6.105707,-54.896385,Hope captured and set adrift,QW3:470,Captured by French,MP,
-7/6/1799,Aurora,ship,USA,L'Hazarde,France,off Angere,-13.765353,76.200448,Aurora captured,QW3:471,Captured by French,MP,
-7/7/1799,John,schooner,USA,L'Importune,France,10-15 leagues windward of Brandt Point,8.756382,-59.345047,John captured,QW3:473,Captured by French,MP,
-8/14/1799,John,schooner,USA,Revellieu,France,windward of Antigua,17.104069,-61.562423,John captured,QW3:473,Captured by French,MP,
-7/10/1799,Rufus,armed merchant ship,USA,Cockade,France,Cadiz SEbE 4-5 leagues,36.6041666,-6.59305,Rufus captured,QW3:483,Captured by French,MP,
-7/29/1799,Jane,schooner,USA,Alliance,France,Porto Rico SEbS 6 or 7 leagues,18.2505,-67.58805,Jane captured,QW3:556,Captured by French,MP,
-2/18/1799,Potowmac,schooner,USA,Genius,France,near Tortola,19.946317,-66.766665,Potowmac captured,QW3:562,Captured by French,MP,
-6/28/1799,Eagle,schooner,USA,Mars,France,in front of Tarifa,35.978033,-5.660277,Eagle captured,QW3:565,Captured by French,MP,
-8/20/1799,Rose,ship,USA,Le Conquise L'Egypt,France,16N 69W,16,-69,Rose captured,QW4:103,Captured by French,MP,
-9/5/1799,Mary,schooner,USA,2 boats,France,2 or 3 leagues from Pampata Forts Margarita,11,-63.67,Mary captured,QW4:163,Captured by French,MP,
-9/6/1799,America,ship,USA,Diligente,France,28N 35W,28,-35,America captured,QW4:165,Captured by French,MP,
-9/9/1799,Sally,schooner,USA,Le Importe,France,coast of Surinam,6.341356,-55.398414,Sally burned,QW4:170,Captured by French,MP,
-9/18/1799,Matilda,brigantine,USA,La Courageuse & La Cyrene,France,entrance of Port of Gustavia,17.897299,-62.858236,Matilda captured,QW4:207,Captured by French,MP,
-9/18/1799,Reliance,schooner,USA,Desfourneaux,France,mile from south of St. Bartholomew,17.863,-62.838,Reliance captured,Qw4:207,Captured by French,MP,
-10/8/1799,Ranger,brigantine,USA,L'Espori,France,near Guadeloupe,16.041157,-62.0481,Ranger captured,QW4:269,Captured by French,NP,
-10/14/1799,Nancy,schooner,USA,privateer,France,from Barbados to St. Lucia,13.673766,-60.349162,Nancy captured,QW4:285,Captured by French,MP,
-7/1/1799,Nautilus,schooner,USA,Trois Amis,France,near Curacao,12.430864,-68.707882,Nautilus captured,QW4:287,Captured by French,MP,
-10/20/1799,Fair Columbian,ship,USA,Biannas,France,28o32'N 65040'W,28.53,-65.66,Fair Columbian captured,QW4:301,Captured by French,MP,
-10/21/1799,Wooddrop,armed merchant ship,USA,Grand Heureux,France,42N 35W,42,-35,Wooddrop captured,QW4:307,Captured by French,MP,
-10/22/1799,[master William Duer],,USA,privateer,France,near Trinidad,10.999629,-61.660841,USA ship captured,QW4:310,Captured by French,MP,
-11/1/1799,Spartan,schooner,USA,Diomede,France,23o30N 63W,23.5,-63,Spartan captured,QW4:346,Captured by French,MP,
-11/13/1799,Shepherdess,schooner,USA,La Rouch R'Encounter,France,16o40'N 59oW,16.66,-59,Shepherdess captured,QW4:389,Captured by French,MP,
-11/18/1799,Nancy,schooner,USA,privateer,France,15N 63W,15,-63,Nancy captured,QW4:422,Captured by French,MP,
-11/18/1799,Weymouth,schooner,USA,Hope,France,near Puerto Rico,18.875776,-66.014845,Weymouth captured,QW4:423,Captured by French,MP,
-11/21/1799,Jane,schooner,USA,2 barges (Rigaud's),France,near Port au Prince,18.634351,-72.525784,Jane plundered but not taken,QW4:437,Boarded by French,MP,
-11/26/1799,Cato,ship,USA,privateer,France,49o15'N 10o30'W,49.25,-10.5,Cato captured,QW4:451,Captured by French,MP,
-12/3/1799,Penelope,brig,USA,Fleur de Mair,France,between Trinidad and St. Thomas,15.829995,-62.944774,Penelope captured,QW4:478,Captured by French,MP,
-12/28/1799,Commerce,ship,USA,privateer,France,in sight of Antigua,17.272,-62.020416,Commerce captured,QW4:575,Captured by French,MP,
-1/1/1800,Daniel and Mary,brig,USA,10 barges,France,channel between Gonaib and Trou Corvet,18.957961,-72.906951,captured by one of the barges,QW5:2,Captured by French,MP,
-1/1/1800,Washington,schooner,USA,10 barges,France,channel between Gonaib and Trou Corvet,18.957961,-72.906951,captured by one of the barges,QW5:2,Captured by French,MP,
-1/5/1800,Louis,ship,USA,Clarissa,France,19N 90E,19,90,captured by Clarissa,QW5:38,Captured by French,MP,
-1/5/1800,Criterion,ship,USA,Clarissa,France,19N 90E,19,90,captured by Clarissa,QW5:38,Captured by French,MP,
-1/25/1800,Nancy,armed brig,USA,Flisbustier,France,20 leagues eastward of Porto Santo,33.1138,-15.066,Nancy captured,QW5:132,Captured by French,MP,
-1/25/1800,Portland,armed ship,USA,privateer,France,21o50'N 59o30'W,21.83,-59.5,Portland captured,QW5:132,Captured by French,MP,
-3/2/1800,Mary,ship,USA,3 armed barges,France,bight of Leogane,19.46193,-73.110704,Mary captured,Qw5:261,Captured by French,MP,
-3/6/1800,Fame,schooner,USA,privateer,France,St. Pierre's Bay,14.742841,-61.19945,Fame captured,QW5:274,Captured by French,MP,
-3/10/1800,Betsy,sloop,USA,privateer,France,18N,18.112534,-61.320256,Betsy captured,QW5:288,Captured by French,MP,
-3/17/1800,Active,schooner,USA,La Troisiene Ferraileuse,France,50o30'N 20W,50.5,-20,Active captured,QW5:320,Captured by French,MP,
-3/31/1800,Minerva,ship,USA,La Minerve,France,47o50N 14W,47.83,-14,Minerva captured by Minerve,QW5:365,Captured by French,MP,
-4/2/1800,Nancy,brig,USA,privateer,France,21o50N 55W,21.83,-55,Nancy plundered and released,QW5:375,Boarded by French,MP,
-4/5/1800,John,schooner,USA,4 barges,France,bight of Leogane,19.4,-73.1,John captured,QW5:387,Captured by French,MP,
-4/8/1800,Industry,ship,USA,La Berceau,France,20N 55W,20,-55,Industry captured,QW5:396,Captured by French,MP,
-4/16/1800,Delia,brig,USA,privateer,France,near Turks,22.076448,-71.859508,Delia captured (eventually retaken by crew),QW5:422,Captured by French,MP,
-4/28/1800,Hiram,sloop,USA,Soleil,France,18-19N; near Guadeloupe?,19.048414,-59.810384,Hiram captured,QW5:464,Captured by French,MP,
-5/3/1800,Ariel,brig,USA,L'Egypte Conquise,France,3 days from St. Thomas (250 miles?),20.8905,-62.169,Ariel captured,QW5:478,Captured by French,MP,
-5/7/1800,[commander John Estes],ship,USA,La Union,France,30o51N 70o40W,30.85,-70.66,USA ship captured,QW5:485,Captured by French,MP,
-5/16/1800,Victor,schooner,USA,Unity,France,3 leagues off Eustatia,18.515876,-64.35201,Victor captured,QW5:523,Captured by French,MP,
-5/18/1800,Ceres,brig,USA,Hazard,France,27o50N 67o30W,27.833,-67.5,Ceres captured,QW5:532,Captured by French,MP,
-5/19/1800,Dispatch,(unarmed) sloop,USA,Hazard,France,28o4N 66o31W,28.066,-66.516,Hazard put Ceres' captives on Dispatch,QW5:537,Captured by French,MP,
-5/20/1800,Iphigenia,ship,USA,La Sophie,France,37o30N 21E,37.5,21,Sophie inspected papers and then let Iphigenia go,QW5:540,Boarded by French,MP,
-5/22/1800,Flora,sloop,USA,L'Egypte Conquise,France,near the Virgin Guada,18.517172,-64.412456,Flora captured,QW5:550,Captured by French,MP,
-4/30/1800,Columbia,brig,USA,L'Esperance,France,straits of Gibraltar,35.99,-5.422,Columbia captured,QW5:574,Captured by French,MP,
-5/18/1800,Dublin Packet,ship,USA,L'Abeille,France,off Cape St Vincent,37.004384,-9.092463,Dublin Packet captured,QW5:574,Captured by French,MP,
-5/18/1800,Friendship,brig,USA,L'Abeille,France,off Cape St Vincent,37.004384,-9.092463,Friendship captured,QW5:574,Captured by French,MP,
-5/29/1800,Minerva,ship,USA,Les Deux Amis,France,32o32N 66W,32.533,-66,Minerva plundered and released,QW5:575,Boarded by French,MP,
-6/2/1800,Lively,schooner,USA,Courageux,France,37N 67W,37,-67,Lively captured,QW6:5,Captured by French,MP,
-6/6/1800,Amazon,ship,USA,privateer,France,40N 25W,40,-25,Amazon captured,QW6:22,Captured by French,MP,
-11/17/1796,Despatch,brig,USA,privateer,France,near Port-au-Paix,19.989824,-72.84811,Despatch captured,ASP2:32,Captured by French,MP,
-3/6/1796,Two Friends,schooner,USA,Voltigeur,France,"26N,58W",26,-58,Two Friends captured,ASP2:35,Captured by French,MP,
-3/25/1797,Nancy,ship,USA,privateer,France,mouth of Port de Paix,19.966108,-72.842274,Nancy captured,ASP2:39,Captured by French,MP,
-10/12/1799,Almy,brigantine,USA,2 privateers,France,off northeast end of Jamaica,18.717481,-75.803835,Almy captured,ASP2:39,Captured by French,MP,
-3/5/1797,Lady Walterdorf,brig,USA,Poline,France,10 leagues NW of Martinique,15.22,-60.616,Lady Walterdorf captured,ASP2:39,Captured by French,MP,
-1/16/797,Eliza,brig,USA,La Pancy and Thetis,France,"15o15N,59W",15.25,-59,Eliza captured  ,ASP2:40,Captured by French,MN,
-12/28/1797,Pattern,ship,USA,Trompeuse,France,4 leagues north of Square Handkerchief,21.3138,-70.45,Pattern captured,ASP2:41,Captured by French,MP,
-1/15/1797,Valeria,ship,USA,Souveraine,France,4-5 leagues from Cape Maize,20.413,-74.1,Valeria captured,ASP2:44,Captured by French,MP,
-1/30/1797,Commerce,ship,USA,privateer,France,"18o2N,60o10W",18.33,-60.16,Commerce captured,ASP2:45,Captured by French,MP,
-12/27/1796,Trio,brig,USA,Trompeuse,France,off Grand Turk,21.464888,-71.209672,Trio captured,ASP2:48,Captured by French,MP,
-10/23/1796,Diana,ship,USA,Vengeur,France,"49o31N,9o30W",49.516,-9.5,Diana captured,ASP2:52,Captured by French,MP,
-5/18/1797,Telemachus,brig,USA,2 launches,France,within cannon-shot of Alicant,38.325662,-0.430295,Telemachus captured,QW1:34,Captured by French,MP,
-5/18/1797,Pomona,ship,USA,2 launches,France,within cannon-shot of Alicant,38.325662,-0.430295,Pomona captured,QW1:34,Captured by French,MP,
-5/18/1797,Abigail,schooner,USA,2 launches,France,within cannon-shot of Alicant,38.325662,-0.430295,Abigail captured,QW1:34,Captured by French,MP,
-5/18/1797,Eliza,brig,USA,2 launches,France,within cannon-shot of Alicant,38.325662,-0.430295,Eliza captured,QW1:34,Captured by French,MP,
-1/15/1797,Ann and Mary,ship,USa,Vulture,France,"49o25N,11W",49.4166,-11,Ann and Mary captured,QW1:34,Captured by French,MP,
-4/14/1798,Commerce,brig,USA,Revenge,France,"36N,26W",36,-26,Commerce plundered,QW1:54,Plundered by French,MP,
-7/5/1798,Eliza,ship,USA,L'Heureux Decide,France,"48.35N,13W",48.35,-13,Eliza captured,QW1:164,Captured by French,MP,
-7/6/1798,Alexander Hamilton,ship,USA,Le Croyable,France,off Little Egg Harbour,39.58304,-74.184449,Alexander Hamilton plundered,QW1:178,Plundered by French,MP,
-7/23/1798,Hetty Jane,ship,USA,privateer,France,500 miles from Charleston,27.901,-73.45,Hetty Jane captured,QW1:235,Captured by French,MP,
-7/28/1798,Planter,brig,USA,privateer,France,Cape Antonio SE 4 or 5 leagues,22.136,-85.1,Planter captured,QW1:248,Captured by French,MP,Planter's crew able to retake ship
-7/28/1798,Friendship,ship,USA,privateer,France,lat 29,29.075393,-75.436673,Friendship captured,QW1:251,Captured by French,MP,
-9/12/1798,Liberty,ship,USA,schooner,France,"13o3N,58W",13.05,-58,Liberty captured,QW1:399,Captured by French,MP,
-10/10/1798,Two Friends,ship,USA,Good Fortune,France,"28N,28W",28,-28,Two Friends captured,QW1:570,Captured by French,MP,Two Friends' crew recaptured
-10/7/1798,Amphitrite,schooner,USA,Fleur de la Mer,France,Island de Aves,15.662832,-63.6,Amphitrite plundered,QW2:150,Plundered by French,MP,
+date,ship_1,type,nationality_1,ship_2,nationality_2,location,latitude,longitude,outcome,source,type,status,,victor
+9/28/1798,America,armed merchant ship,USA,privateer,France,near Havana,23.463241,-82.648825,shots fired,QW2:148,engagement but no capture,MP,,none
+7/11/1798,American,armed merchant ship,USA,3 privateers,France,Gibraltar,36.071505,-5.347424,American beat off privateers,QW2:148,engagement but no capture,MP,,none
+9/27/1798,Amphitrite,armed merchant ship,USA,ship,France,29N53W,29,-53,Amphitrite ran after running out of ammunition,QW2:150,engagement but no capture,MP,,none
+5/9/1798,Belvedere,armed merchant ship,USA,privateer sloop,France,39N65W,39,-65,shots fired,QW2:153,engagement but no capture,MP,,none
+4/22/1798,Boston Packet,armed brig,USA,2 brigand boats,France,en route to Jamaica,49.19789,-5.932063,Boston Packet beat off privateers,QW2:154,engagement but no capture,MP,,none
+12/28/1798,Camilla,armed merchant ship,USA,2 privateers,France,near Boston,42.389998,-70.748853,beat off privateers and rescued Portuguese vessel,QW2:155,engagement but no capture,MP,,none
+9/25/1798,Carrollton,armed merchant ship,USA,schooner and sloop,France,off Portland,42.912296,-68.854839,privateers sailed away without firing,QW2:156,sight but no engagement,MP,,none
+9/27/1798,Cato,armed merchant ship,USA,freebooter,France,near Tobago,11.638707,-60.713151,prepared for action but no shots fired,QW2:156,sight but no engagement,MP,,none
+12/20/1798,Chance,armed schooner,USA,privateer,France,6 leagues east of Havana,23.15139,-82.08361,shots fired; no capture,QW2:156,engagement but no capture,MP,,none
+5/25/1798,Diana,armed merchant ship,USA,Jean Bart,France,38o30'N 70o30'W,38.5,-70.5,Diana captured,QW2:160,Captured by French,MP,,French
+5/21/1798,Olive,schooner,USA,8540,France,39N 72o30'W,39,-72.5,Olive captured,QW2:161,Captured by French,MP,,French
+7/26/1798,Eliza,armed merchant ship,USA,L'Heureux Decide,France,near London,51.67876,1.722132,Eliza captured after 2-hour battle,QW2:162,Captured by French,MP,,French
+2/21/1798,Eliza,armed merchant ship,USA,Nymphe Phaeton Mermaid,Britain,49o10'N 10o30'W,49.16667,-10.5,Eliza recaptured from French and taken to Plymouth,QW2:163,Recaptured by British,MN,,British
+12/16/1798,Factor,armed merchant ship,USA,Intrepid,France,en route to London from New York,41.136558,-29.808629,Factor captured but escaped under 1st mate next day,QW2:164,Captured by French,MP,,French
+3/16/1798,Fame,armed merchant ship,USA,La Vengeance,France,22o45'N. Longitude 68o52'W,22.75,-68.86667,Fame captured,QW2:165,Captured by French,MP,,French
+11/3/1798,Favorite,armed merchant ship,USA,privateer,France,south end of Heneaga,20.722122,-73.698263,privateer got away because wind died,QW2:166,Engagement but no capture,MP,,none
+12/10/1798,Hannah,armed schooner,USA,Filibustier,France,6 leagues off Malaga,36.56305556,-4.1075,captured by Filibustier,QW2:169,Captured by French,MP,,French
+9/14/1798,Hannah,armed merchant ship,USA,La Vengeance,France,between London and Portsmouth VA,37.625056,-69.455751,captured by La Vengeance,QW2:169,Captured by French,MP,,French
+12/17/1798,Hazard,armed brig,USA,2 privateers,France,off Bilboa,44.525999,-3.900361,Hazard beat off privateers,QW2:170,Engagement but no capture,MP,,none
+12/28/1798,Henry,armed sloop,USA,privateer,France,20oN 62o30'W,20,-62.5,escaped privateer,QW2:170,Engagement but no capture,MP,,none
+11/4/1798,Highlander,armed schooner,USA,privateer,France,19o10'N 50oW,19.16666667,-50,captured by privateer,QW2:171,Captured by French,MP,,French
+6/3/1798,Hunter,armed merchant ship,USA,La Bonne Mere,France,near Guadeloupe,16.731527,-60.88355,captured by privateer,QW2:172,Captured by French,MP,,French
+6/3/1798,Luna,armed barque,USA,6 privateers,France,near Tortola,18.472359,-64.672053,in convoy Luna captured 6 privateers,QW2:177,Captured by Americans,MP,,American
+8/1/1798,Nancy,armed brig,USA,privateer,France,off Madeira,32.529722,-17.433004,captured by privateer; master retook brig,QW2:181,Captured by French,MP,,French
+2/13/1798,New Jersey,armed merchant ship,USA,La Bourdaine,France,23o30' N 62o,23.5,-62,captured by La Bourdaine,QW2:182,Captured by French,MP,,French
+12/31/1798,Perseverance,armed merchant ship,USA,privateer,France,Old Bahamas Straits,22.979791,-77.81299,beat off privateer ,QW2:185,Engagement but no capture,MP,,none
+6/22/1798,Princess Royal,armed packet,USA,privateer,France,off Western Islands,58.300592,-8.867628,privateer sheered off after 2.25hr battle,QW2:186,Engagement but no capture,MP,,none
+8/7/1798,Rambler,armed merchant ship,USA,privateer,France,26oN from Martinique,26.306444,-54.420702,privateer sheered off when Rambler made prep to attack,QW2:187,Engagement but no capture,MP,,none
+6/23/1798,Ranging Polly,armed schooner,USA,privateer,France,between New York and Martinique,26.030358,-68.9666,privateer sheered off,QW2:187,Engagement but no capture,MP,,none
+9/14/1798,Reindeer,armed merchant ship,USA,privateer,France,near Martinique,15.329993,-59.913865,captured,QW2:188,Captured by French,MP,,French
+12/23/1798,Republican,armed merchant ship,USA,Spartiate,France,4o16'N 37o5'W,4.266,-37.0833,captured by Spartiate,QW2:188,Captured by French,MP,,French
+6/7/1798,Sarah,armed merchant ship,USA,privateer,France,off Madeira,32.5,-17.4,fought with privateer and drove it off,QW2:191,Engagement but no capture,MP,,none
+5/6/1798,Trial,armed merchant ship,USA,Escamoteur,France,30o40'N 19o50'W,30.666,-19.833,captured by Escamoteur,QW2:193,Captured by French,MP,,French
+6/1/1798,Triton,armed galliot,USA,2 privateers,France,around Martinique,14.958827,-62.451707,captured by second privateer; all crew put to death,QW2:194,Captured by French,MP,,French
+12/18/1798,Vulture,armed brig,USA,Furet,France,23o12'N 53o30'W,23.2,-53.5,captured,QW2:195,Captured by French,MP,,French
+1/1/1799,Delaware,sloop of war,USA,2 privateers,France,off Matanzes,23.234895,-81.460616,shots fired,QW2:221,Engagement but no capture,MP,,none
+1/10/1799,Amazon,letter of marque schooner,USA,Flower of the Sea,France,10 leagues eastward of Lageira,10.6816,-66.4477,captured by Flower of the Sea,QW2:227,Captured by French,PP,,French
+12/28/1798,Henry,sloop,USA,privateer,France,20oN 62o30'W,20,-62.5,chased by privateer,QW2:227,Captured by French,MP,,French
+1/9/1799,Henry,sloop,USA,packet,Spain,22o10'N 71o40'W,22.1666,-71.666,captured and taken to Havana,QW2:228,Captured by French,MP,,French
+1/24/1799,Diana,armed brig,USA,Du Gommier. Don Quixote,France,off Malaga,36.427059,-4.35039,captured and taken to Malaga,QW2:278,Captured by French,MP,,French
+1/28/1799,Constellation,frigate,USA,sloop,France,close to Basseterre,15.868846,-61.893605,shots fired,QW2:290,Engagement but no capture,NP,,none
+1/30/1799,Essequebo Packet,packet,USA,schooner,France,windward of Martinique,15.086009,-60.689916,schooner perished in a squall,QW2:295,Engagement but no capture,MP,,none
+2/1/1799,Constellation,frigate,USA,privateer,France,harbor of Ft. St. Pine,15.946073,-61.708729,privateer outran Constellation,QW2:300,Engagement but no capture,NP,,none
+2/3/1799,United States,frigate,USA,L'Amour de la Patrie,France,windward of Martinique,15.08,-60.68,United States sunk privateer,QW2:305,Sunk by Americans,NP,,American
+2/5/1799,Appollo,schooner,USA,schooner,France,24oN,23.609501,-58.65522,Appollo captured but then retaken by master,QW2:315,Captured by French,MP,,French
+2/5/1799,Venus,schooner,USA,schooner,France,24oN,23.609501,-58.65522,Venus captured,QW2:315,Captured by French,MP,,French
+2/9/1799,Concord,ship,USA,Le Prudent,France,off Cape of Good Hope,-34.863381,17.627787,Concord captured,QW2:317,Captured by French,MP,,French
+2/9/1799,Constellation,frigate,USA,L'Insurgente,France,Nevis WSW 5 leagues,17.2652777,-62.29694,Constellation captured L'Insurgente,QW2:327,Captured by Americans,NN,,American
+2/13/1799,Maria,schooner,USA,Adolphus,France,near Cadiz,36.439089,-6.757626,Maria captured by Adolphus and 5 other privateers,QW2:350,Captured by French,MP,,French
+2/8/1799,Betsey,schooner,USA,Republican,France,59o58'N 17o27'W,59.9666,-17.45,Betsey captured,QW2:403,Captured by French,MP,,French
+2/26/1799,Amity,schooner,USA,La Zaboa,France,Cape Antonio 5 or 6 leagues distant,21.89194,-85.28861,Amity captured,QW2:407,Captured by French,MP,,French
+4/2/1799,Brilliant,sloop,USA,Prudent,France,between Kingston and Savannah,28.572481,-74.603391,Brilliant sunk,QW2:407,Captured by French,MP,,French
+4/2/1799,Betsy,schooner,USA,Prudent,France,between Kingston and Savannah,28.572481,-74.603391,Betsy sunk,QW2:407,Captured by French,MP,,French
+2/27/1799,Chatham,brig,USA,privateer,France,SW end of Cuba,21.4082,-85.622243,privateer sailed away after battle,QW2:413,Engagement but no capture,MP,,none
+2/27/1799,Lucretia,brig,USA,privateer,France,SW end of Cuba,21.4082,-85.622243,privateer sailed away after battle,QW2:413,Engagement but no capture,MP,,none
+2/27/1799,Diligence,schooner,USA,privateer,France,near Desada? (La Desirade),16.413121,-61.074134,privateer escaped by running under the fort,QW2:413,Engagement but no capture,MP,,none
+3/4/1799,Delaware,,USA,Marsouin,France,off Moro Castle,23.614626,-82.751741,Delaware captured the Marsouin,QW2:421,Captured by Americans,NP,,American
+3/5/1799,Sally,ship,USA,privateer,France,under the lee of Guadeloupe,15.840569,-61.946174,shots fired but lost in the night,QW2:425,Engagement but no capture,MP,,none
+3/8/1799,Charming Betsey,armed schooner,USA,Revenge,France,between Curacao and Laguira,11.487287,-68.021542,45-minute engagement ended with neither party captured,QW2:434,Engagement but no capture,MP,,none
+3/8/1799,Molly,armed merchant ship,USA,privateer,France,16 or 17 leagues from Cape Clear; lat 51o20'N,51.254605,-9.568518,engagement ended with no capture,QW2:435,Engagement but no capture,MP,,none
+3/8/1799,Mary,armed merchant ship,USA,4 privateers,France,near Malaga,36.374851,-4.339101,Mary fired upon but not captured,QW2:435,Engagement but no capture,MP,,none
+3/7/1799,Constellation,frigate,USA,Union (letter of marque),France,off Basseterre Roads Guadeloupe,15.984396,-61.751469,Constellation captured Union,QW2:458,Captured by Americans,NP,,American
+3/14/1799,Cygnet,ship,USA,John and Edward,Britain,under Cuba,19.963375,-81.104537,John and Edward captured Cygnet,QW2:462,Captured by British,MP,,British
+8/23/1798,United States and Delaware,frigate and sloop,USA,Sans Pareil,France,northwest of Martinique,14.984034,-61.560056,Sans Pareil captured,QW2:479,Captured by Americans,NP,,American
+9/5/1798,United States and Delaware,frigate and sloop,USA,Jaloux,France,near San Juan,18.830375,-66.108395,Jaloux captured,QW2:479,Captured by Americans,NP,,American
+11/20/1798,Retaliation,schooner,USA,L'Insurgente and La Volontaire,France,south of Desceada,16.243134,-61.053311,Retaliation captured,QW2:479,Captured by French,NN,,French
+2/4/1799,United States,frigate,USA,Tartuffe,France,NE of St Lucia,14.261394,-60.687452,Tartuffe captured,QW2:479,Captured by Americans,NP,,American
+3/1/1799,Montezuma,brig,USA,Les Amis,France,S of St Croix,17.623694,-64.831874,Les Amis captured,QW2:479,Captured by Americans,NP,,American
+3/24/1799,unknown (Capt. A. Gordon),ship,USA,privateer,France,23o20'n 61o10'w,23.333,-61.1666,captured by privateer,QW2:509,Captured by French,MP,,French
+3/24/1799,Lydia,schooner,USA,privateer,France,23o20'n 61o10'w,23.333,-61.1666,captured by privateer,QW2:509,Captured by French,MP,,French
+3/28/1799,Washington,armed ship,USA,privateer,France,north of the Mona Passage,18.35635,-67.843445,privateer outran Washington,QW2:531,Engagement but no capture,MP,,none
+3/30/1799,Nymph,armed brig,USA,Gironda,France,42oN 34o11'W,42,-34.1833,Gironda captured Nymph,QW2:535,Captured by French,MP,,French
+3/30/1799,Minerva,schooner,USA,Gironda,France,42oN 34o11'W,42,-34.1833,Gironda captured Minerva,QW2:539,Captured by French,MP,,French
+3/22/1799,Henry,ship,USA,privateer,France,31.5oN,31.680579,-71.273305,Henry captured,QW3:2,Captured by French,MP,,French
+4/2/1799,Harmony,brig,USA,privateer,France,33N 26W,33,-26,Harmony captured,QW3:15,Captured by French,MP,,French
+4/9/1799,Fair Columbian,brig,USA,HMS Hinde,Britain,29o9'N 78o48'W,29.15,-78.8,Fair Columbian captured,QW3:35,Captured by British,MN,,British
+4/14/1799,General Washington,ship,USA,HMS Lynx,Britain,near Hole-in-the-Wall,25.789598,-77.210579,General Washington captured,QW3:45,Captured by British,MN,,British
+4/15/1799,Britannia,ship,USA,privateer,France,near Jamaica,18.798659,-79.169904,Britannia captured,QW3:54,Captured by French,MP,,French
+4/15/1799,Brothers,ship,USA,privateer,France,Montserrat NNE 12 leagues,16.10916,-62.3775,Brothers boarded and pillaged,QW3:55,Boarded by French,MP,,French
+4/17/1799,Constellation and L'Insurgente,frigate,USA,Diligente,France,Guadeloupe NNE 8 leagues,15.5638,-61.824,Dilgente captured ,QW3:63,Captured by Americans,NP,,American
+4/18/1799,Susanna,brig,USA,Earl of Moira (privateer),Britain,Highlands of Neversinks NWbW 12 miles,40.390357,-73.417511,Susanna captured,QW3:65,Captured by British,MP,,British
+4/28/1799,Fair American,brig,USA,3 privateer,France,windward of Barbuda,32.314535,-64.421013,Fair American captured,QW3:109,Captured by French,MP,,French
+4/30/1799,Orange,schooner,USA,Scrutin,France,windward of Guadeloupe,16.281218,-60.65833,Orange captured,QW3:112,Captured by French,MP,,French
+5/1/1799,Polly,schooner,USA,privateer,France,28oN 72oW,28,-72,Polly captured,QW3:118,Captured by French,MP,,French
+4/30/1799,Francis,schooner,USA,2 letters of marque,France,Deseada bearing SbW 10 leagues,16.7038,-60.638,Francis captured,QW3:120,Captured by French,MP,,French
+4/17/1799?,Eagle,brig,USA,Bon Pierre,France,5 leagues to windward of Antigua,17.0863,-61.4105,Bon Pierre captured,QW3:157,Captured by Americans,MP,,American
+5/11/1799,Mary Ann,ship,USA,4 privateers,France,3 leagues south of Cape Trafalgar,36.0305,-6.03361,Mary Ann captured,QW3:170,Captured by French,MP,,French
+5/13/1799,Union,sloop,USA,Alliance,France (Guadeloupe),20o25'N 62oW,20.416,-62,Union captured,QW3:181,Captured by French,MP,,French
+5/13/1799,[unknown],brig,USA,La Victoire,France,24o16'N 63o41'W,24.266,-63.6833,brig captured,QW3:182,Captured by French,MP,,French
+5/16/1799,Ardent,ship,USA,5 privateers,France,straits of Gibraltar,35.992099,-5.422955,ship captured,QW3:195,Captured by French,MP,,French
+5/27/1799,Harmony,ship,USA,Le Surges,France,lat 41o42',41.854806,-19.579037,Harmony captured,QW3:263,Captured by French,MP,,French
+6/16/1799,Ganges,ship,USA,Vainqueure,France,NEbN of St. Bartholomews 16 or 18 leagues,18.6125,-62.38694,Vainqueure captured,QW3:346,Captured by Americans,NP,,American
+6/17/1799,Robertson,brig,USA,Lodolph and another,France,between Cadiz and the Straits of Gibraltar,36.042565,-6.30444,Robertson captured,QW3:355,Captured by French,MP,,French
+6/12/1799,George,brig,USA,privateer,France,off Mudfort (near Cayenne),5.238784,-52.406659,George captured,QW3:357,Captured by French,MP,,French
+6/12/1799,John,schooner,USA,privateer,France,off Mudfort (near Cayenne),5.238784,-52.406659,John captured,QW3:357,Captured by French,MP,,French
+6/20/1799,Peyton Randolph,brig,USA,Revenge,France,15o30'N 56o50'W,15.5,-55.83,Peyton Randolp captured,QW3:374,Captured by French,MP,,French
+6/24/1799,Commerce,ship,USA,La Mouche,France,between Bordeaux and Cadiz,41.36864,-11.792195,Commerce captured,QW3:396,Captured by French,MP,,French
+6/24/1799,Ann,ship,USA,La Mouche,France,36oN 11o30'W,36,-11.5,Ann captured,QW3:397,Captured by French,MP,,French
+6/30/1799,Mary Ann,ship,USA,La Roman,France,near Barcelona,41.331659,2.257944,Mary Ann captured (again),QW3:435,Captured by French,MP,,French
+7/6/1799,Hope ,schooner,USA,privateer,France,windward of Surinam River,6.105707,-54.896385,Hope captured and set adrift,QW3:470,Captured by French,MP,,French
+7/6/1799,Aurora,ship,USA,L'Hazarde,France,off Angere,-13.765353,76.200448,Aurora captured,QW3:471,Captured by French,MP,,French
+7/7/1799,John,schooner,USA,L'Importune,France,10-15 leagues windward of Brandt Point,8.756382,-59.345047,John captured,QW3:473,Captured by French,MP,,French
+8/14/1799,John,schooner,USA,Revellieu,France,windward of Antigua,17.104069,-61.562423,John captured,QW3:473,Captured by French,MP,,French
+7/10/1799,Rufus,armed merchant ship,USA,Cockade,France,Cadiz SEbE 4-5 leagues,36.6041666,-6.59305,Rufus captured,QW3:483,Captured by French,MP,,French
+7/10/1799,Planter,armed merchant ship,USA,privateer,France,29o2'N 17o30'W,29.033,-17.5,privateer sheered off after battle,QW3:487,Engagement but no capture,MP,,none
+6/29/1799,Merrimack,sloop of war,USA,la Magicienne,France,east of Deseada,16.339337,-60.86402,Magicienne captured,QW3:495,Captured by Americans,NP,,American
+7/29/1799,Jane,schooner,USA,Alliance,France,Porto Rico SEbS 6 or 7 leagues,18.2505,-67.58805,Jane captured,QW3:556,Captured by French,MP,,French
+2/18/1799,Potowmac,schooner,USA,Genius,France,near Tortola,19.946317,-66.766665,Potowmac captured,QW3:562,Captured by French,MP,,French
+6/28/1799,Eagle,schooner,USA,Mars,France,in front of Tarifa,35.978033,-5.660277,Eagle captured,QW3:565,Captured by French,MP,,French
+8/5/1799,Ganges,ship,USA,La Rabateuse,France,12 mi windward of St. Bartholomews,17.907,-62.606,La Rabateuse,QW4:29,Captured by Americans,NP,,American
+8/7/1799,Maria,brig,USA,privateer,England,near Hole-in-the-Wall,25.7,-77.2,Maria captured and 4 men pressed,QW4:43,Captured by British,MP,,British
+4/1/1799,Belvidere,ship,USA,2 xebecs,France,gut of Gibraltar,36.123658,-5.36974,shots fired,QW4:62,Engagement but no capture,MP,,none
+4/13/1799,Belvidere,ship,USA,2 xebecs and a privateer,France,off Malaga,36.684502,-4.406523,battle until dark when French sailed off,QW4:62,Engagement but no capture,MP,,none
+6/2/1799,Belvidere,ship,USA,2 xebecs,France,off Malaga,36.684502,-4.406523,battle for 2 hours; French disengaged,QW4:62,Engagement but no capture,MP,,none
+8/21/1799,USS Portsmouth,ship,USA,Hussar,France,Surinam River mouth,5.936358,-55.198509,Hussar given up to Portsmouth after days of confinement,QW4:67,Captured by Americans,NP,,American
+8/20/1799,Rose,ship,USA,Le Conquise L'Egypt,France,16N 69W,16,-69,Rose captured,QW4:103,Captured by French,MP,,French
+8/22/1799,USS Pinckney,brig,USA,Adelaide,France,2 leagues east of Moro,23.15,-82.47,Adelaide captured,QW4:106,Captured by Americans,NP,,American
+9/5/1799,Mary,schooner,USA,2 boats,France,2 or 3 leagues from Pampata Forts Margarita,11,-63.67,Mary captured,QW4:163,Captured by French,MP,,French
+9/6/1799,America,ship,USA,Diligente,France,28N 35W,28,-35,America captured,QW4:165,Captured by French,MP,,French
+9/9/1799,Sally,schooner,USA,Le Importe,France,coast of Surinam,6.341356,-55.398414,Sally burned,QW4:170,Captured by French,MP,,French
+9/18/1799,Matilda,brigantine,USA,La Courageuse & La Cyrene,France,entrance of Port of Gustavia,17.897299,-62.858236,Matilda captured,QW4:207,Captured by French,MP,,French
+9/18/1799,Reliance,schooner,USA,Desfourneaux,France,mile from south of St. Bartholomew,17.863,-62.838,Reliance captured,Qw4:207,Captured by French,MP,,French
+10/8/1799,Ranger,brigantine,USA,L'Espori,France,near Guadeloupe,16.041157,-62.0481,Ranger captured,QW4:269,Captured by French,NP,,French
+10/14/1799,Nancy,schooner,USA,privateer,France,from Barbados to St. Lucia,13.673766,-60.349162,Nancy captured,QW4:285,Captured by French,MP,,French
+7/1/1799,Nautilus,schooner,USA,Trois Amis,France,near Curacao,12.430864,-68.707882,Nautilus captured,QW4:287,Captured by French,MP,,French
+11/18/1799,USRC Pickering,revenue cutter,USA,L'Egypte Conquise,France,off Point Petre,16.19408,-61.533533,L'Eypte Conquise captured,QW4:295,Captured by Americans,NP,,American
+10/20/1799,Fair Columbian,ship,USA,Biannas,France,28o32'N 65040'W,28.53,-65.66,Fair Columbian captured,QW4:301,Captured by French,MP,,French
+10/21/1799,Wooddrop,armed merchant ship,USA,Grand Heureux,France,42N 35W,42,-35,Wooddrop captured,QW4:307,Captured by French,MP,,French
+10/22/1799,[master William Duer],,USA,privateer,France,near Trinidad,10.999629,-61.660841,USA ship captured,QW4:310,Captured by French,MP,,French
+10/24/1799,Washington,ship,USA,privateer,France,48o30'N 8o50'W,48.5,-8.83,privateer sheered off after battle,QW4:315,Engagement but no capture,MP,,none
+10/29/1799,USS Delaware,ship,USA,Ocean,France,near St. Kitts,17.406937,-62.558455,Ocean captured,QW4:337,Captured by Americans,NP,,American
+11/1/1799,Spartan,schooner,USA,Diomede,France,23o30N 63W,23.5,-63,Spartan captured,QW4:346,Captured by French,MP,,French
+11/13/1799,Shepherdess,schooner,USA,La Rouch R'Encounter,France,16o40'N 59oW,16.66,-59,Shepherdess captured,QW4:389,Captured by French,MP,,French
+11/18/1799,Nancy,schooner,USA,privateer,France,15N 63W,15,-63,Nancy captured,QW4:422,Captured by French,MP,,French
+11/20/1799,Nancy,schooner,France,Adams and Insurgente,USA,near Guadeloupe,16.008158,-62.027501,Nancy recaptured,QW4:422,Captured by Americans,MP,,American
+11/18/1799,Weymouth,schooner,USA,Hope,France,near Puerto Rico,18.875776,-66.014845,Weymouth captured,QW4:423,Captured by French,MP,,French
+12/1/1799,Weymouth,schooner,France,USS General Greene,USA,near Puerto Rico,18.8,-66,Weymouth recaptured,QW4:423,Recaptured by Americans,NP,,American
+11/21/1799,Jane,schooner,USA,2 barges (Rigaud's),France,near Port au Prince,18.634351,-72.525784,Jane plundered but not taken,QW4:437,Boarded by French,MP,,French
+11/26/1799,Cato,ship,USA,privateer,France,49o15'N 10o30'W,49.25,-10.5,Cato captured,QW4:451,Captured by French,MP,,French
+11/30/1799,USS Adams,ship,USA,Le Onze Vandemare,France,near Guadeloupe,16,-62,Le Onze Vandemare captured,QW4:463,Captured by Americans,NP,,American
+12/3/1799,Penelope,brig,USA,Fleur de Mair,France,between Trinidad and St. Thomas,15.829995,-62.944774,Penelope captured,QW4:478,Captured by French,MP,,French
+12/28/1799,Commerce,ship,USA,privateer,France,in sight of Antigua,17.272,-62.020416,Commerce captured,QW4:575,Captured by French,MP,,French
+12/29/1799,USS Connecticut,ship,USA,Conqueror of Italy,France,near Point Petre,16,-61.5,Conqueror of Italy captured,QW4:577,Captured by Americans,NP,,American
+1/1/1800,USS Experiment,schooner,USA,10 barges,France,channel between Gonaib and Trou Corvet,18.957961,-72.906951,sunk two barges,QW5:1,Captured by Americans,NP,,American
+1/1/1800,Mary,schooner,USA,10 barges,France,channel between Gonaib and Trou Corvet,18.957961,-72.906951,captain killed but ship saved,QW5:1,Engagement but no capture,MP,,none
+1/1/1800,Daniel and Mary,brig,USA,10 barges,France,channel between Gonaib and Trou Corvet,18.957961,-72.906951,captured by one of the barges,QW5:2,Captured by French,MP,,French
+1/1/1800,Washington,schooner,USA,10 barges,France,channel between Gonaib and Trou Corvet,18.957961,-72.906951,captured by one of the barges,QW5:2,Captured by French,MP,,French
+1/5/1800,Louis,ship,USA,Clarissa,France,19N 90E,19,90,captured by Clarissa,QW5:38,Captured by French,MP,,French
+1/5/1800,Criterion,ship,USA,Clarissa,France,19N 90E,19,90,captured by Clarissa,QW5:38,Captured by French,MP,,French
+1/12/1800,USS Baltimore,ship,USA,La Brilliant Jeunesse,France,10o40'N 60o12'W,10.66,-60.2,captured La Brilliant Jeunesse,QW5:69,Captured by Americans,NP,,American
+1/14/1800,USS Connecticut,ship,USA,privateer,France,up to shore of Deseada,16.316438,-61.030961,privateer struck and sunk,QW5:73,Sunk by Americans,NP,,American
+1/21/1800,USS Herald,ship,USA,La Mutine,France,off San Juan Puerto Rico,18.491981,-66.081344,La Mutine captured,QW5:111,Captured by Americans,NP,,American
+1/25/1800,Nancy,armed brig,USA,Flisbustier,France,20 leagues eastward of Porto Santo,33.1138,-15.066,Nancy captured,QW5:132,Captured by French,MP,,French
+1/25/1800,Portland,armed ship,USA,privateer,France,21o50'N 59o30'W,21.83,-59.5,Portland captured,QW5:132,Captured by French,MP,,French
+2/1/1800,USS Constellation,frigate,USA,La Vengeance,France,15o17'N 66o4'W,15.2833,-66.066,Vengeance severely damaged,QW5:167,Engagement but no capture,NP,,none
+2/18/1800,USS Experiment,schooner,USA,L'Legere,France,between St. Jago and Jeremie,17.306855,-54.300071,L'Legere captured,QW5:229,Captured by Americans,NP,,American
+3/1/1800,Friendship,ship,USA,privateer,France,Point of Rotta,36.603065,-6.518296,shots fired,QW5:256,Engagement but no capture,MP,,none
+3/2/1800,Mary,ship,USA,3 armed barges,France,bight of Leogane,19.46193,-73.110704,Mary captured,Qw5:261,Captured by French,MP,,French
+3/4/1800,USS Boston,ship,USA,La Fortune,France,off Cape Tiburon,18.319839,-74.403427,Boston boarded Fortune,QW5:271,Boarded by Americans,NP,,American
+3/26/1800,USS Boston,ship,USA,Happy,France,off Cape Tiburon,18.319839,-74.403427,Happy captured,QW5:271,Captured by Americans,NP,,American
+3/6/1800,Fame,schooner,USA,privateer,France,St. Pierre's Bay,14.742841,-61.19945,Fame captured,QW5:274,Captured by French,MP,,French
+3/10/1800,Betsy,sloop,USA,privateer,France,18N,18.112534,-61.320256,Betsy captured,QW5:288,Captured by French,MP,,French
+3/11/1800,Ceres,brig,USA,3 privateers,France,27N; south of Bermuda,27.215076,-64.486931,Ceres outsailed privateers,QW5:293,Engagement but no capture,MP,,none
+3/11/1800,USS General Greene,ship,USA,armed schooner,France,off Jacmel,18.065319,-72.519399,General Greene captured the schooner,QW5:318,Captured by Americans,NP,,American
+3/17/1800,Active,schooner,USA,La Troisiene Ferraileuse,France,50o30'N 20W,50.5,-20,Active captured,QW5:320,Captured by French,MP,,French
+4/3/1800,USS John Adams,ship,USA,La Jason,France,south point of Martinique W half; St. Lucia SW 9 leagues,14.43,-60.6,La Jason captured,QW5:341,Captured by Americans,NP,,American
+3/27/1800,Samuel Smith,ship,USA,Mars,France,off Scilly,49.875908,-6.288476,Samuel Smith beat Mars off,QW5:353,Engagement but no capture,MP,,none
+3/31/1800,Minerva,ship,USA,La Minerve,France,47o50N 14W,47.83,-14,Minerva captured by Minerve,QW5:365,Captured by French,MP,,French
+3/29/1800,Nancy,brig,USA,privateer,France,17o42'N 52W,17.7,-52,privateer shears off after shots,QW5:375,Engagement but no capture,MP,,none
+4/2/1800,Nancy,brig,USA,privateer,France,21o50N 55W,21.83,-55,Nancy plundered and released,QW5:375,Boarded by French,MP,,French
+4/5/1800,John,schooner,USA,4 barges,France,bight of Leogane,19.4,-73.1,John captured,QW5:387,Captured by French,MP,,French
+4/8/1800,Industry,ship,USA,La Berceau,France,20N 55W,20,-55,Industry captured,QW5:396,Captured by French,MP,,French
+4/16/1800,Delia,brig,USA,privateer,France,near Turks,22.076448,-71.859508,Delia captured (eventually retaken by crew),QW5:422,Captured by French,MP,,French
+1/10/1800?,USS Boston,frigate,USA,Deux Anges,France,near Cape Francois?,19.791075,-72.124386,Deux Anges captured,QW5:430,Captured by Americans,NP,,American
+4/28/1800,Hiram,sloop,USA,Soleil,France,18-19N; near Guadeloupe?,19.048414,-59.810384,Hiram captured,QW5:464,Captured by French,MP,,French
+5/3/1800,Ariel,brig,USA,L'Egypte Conquise,France,3 days from St. Thomas (250 miles?),20.8905,-62.169,Ariel captured,QW5:478,Captured by French,MP,,French
+5/7/1800,[commander John Estes],ship,USA,La Union,France,30o51N 70o40W,30.85,-70.66,USA ship captured,QW5:485,Captured by French,MP,,French
+5/12/1800,USS Constitution,frigate,USA,Sandwich,France,Port Plate,19.805354,-70.699644,Sandwich cut out by Isaac Hull in the harbor,QW5:504,Captured by Americans,NP,,American
+5/16/1800,Victor,schooner,USA,Unity,France,3 leagues off Eustatia,18.515876,-64.35201,Victor captured,QW5:523,Captured by French,MP,,French
+5/18/1800,Ceres,brig,USA,Hazard,France,27o50N 67o30W,27.833,-67.5,Ceres captured,QW5:532,Captured by French,MP,,French
+5/19/1800,Dispatch,(unarmed) sloop,USA,Hazard,France,28o4N 66o31W,28.066,-66.516,Hazard put Ceres' captives on Dispatch,QW5:537,Captured by French,MP,,French
+5/20/1800,Iphigenia,ship,USA,La Sophie,France,37o30N 21E,37.5,21,Sophie inspected papers and then let Iphigenia go,QW5:540,Boarded by French,MP,,French
+5/22/1800,Flora,sloop,USA,L'Egypte Conquise,France,near the Virgin Guada,18.517172,-64.412456,Flora captured,QW5:550,Captured by French,MP,,French
+4/30/1800,Columbia,brig,USA,L'Esperance,France,straits of Gibraltar,35.99,-5.422,Columbia captured,QW5:574,Captured by French,MP,,French
+5/18/1800,Dublin Packet,ship,USA,L'Abeille,France,off Cape St Vincent,37.004384,-9.092463,Dublin Packet captured,QW5:574,Captured by French,MP,,French
+5/18/1800,Friendship,brig,USA,L'Abeille,France,off Cape St Vincent,37.004384,-9.092463,Friendship captured,QW5:574,Captured by French,MP,,French
+5/29/1800,Minerva,ship,USA,Les Deux Amis,France,32o32N 66W,32.533,-66,Minerva plundered and released,QW5:575,Boarded by French,MP,,French
+6/2/1800,Experiment,armed schooner,USA,privateer,France,near Cape Nicola Mole,19.813308,-73.432023,privateer captured,QW6:4,Captured by Americans,MP,,American
+6/2/1800,Lively,schooner,USA,Courageux,France,37N 67W,37,-67,Lively captured,QW6:5,Captured by French,MP,,French
+6/3/1800,USS Augusta,brig,USA,La Victoire and La Jeanne,France,off Jacmel,18.065,-72.519,privateers captured,QW6:8,Captured by Americans,NP,,American
+6/4/1800,William,brig,USA,privateer,France,under lee of Guadeloupe,15.952709,-61.504277,shots fired,QW6:14,Engagement but no capture,MP,,none
+6/6/1800,Amazon,ship,USA,privateer,France,40N 25W,40,-25,Amazon captured,QW6:22,Captured by French,MP,,French
+6/1/1800,USS Connecticut,ship,USA,Le Piege,France,off Descada,16.375623,-61.01454,Le Piege captured,QW6:28,Captured by Americans,NP,,American
+6/5/1800,USS Connecticut,ship,USA,La Unite,France,near St. Kitts,17.493129,-62.716566,La Unite captured,QW6:29,Captured by Americans,NP,,American
+6/13/1800,USS John Adams,ship,USA,La Decade,France,off Guadeloupe,16.506357,-61.16494,La Decade captured,QW6:45,Captured by Americans,NP,,American
+6/17/1800,USS Enterprize,ship,USA,La Cygne,France,off Guadeloupe,16.5,-61.164,La Cygne captured,QW6:57,Captured by Americans,NP,,American
+6/19/1800,USS Norfolk,ship,USA,privateer,France,18o48N; St. Martins SW 8 leagues,18.4058,-62.73,privateer sailed away after engagement,QW6:61,Engagement but no capture,NP,,none
+11/17/1796,Despatch,brig,USA,privateer,France,near Port-au-Paix,19.989824,-72.84811,Despatch captured,ASP2:32,Captured by French,MP,,French
+3/6/1796,Two Friends,schooner,USA,Voltigeur,France,"26N,58W",26,-58,Two Friends captured,ASP2:35,Captured by French,MP,,French
+3/25/1797,Nancy,ship,USA,privateer,France,mouth of Port de Paix,19.966108,-72.842274,Nancy captured,ASP2:39,Captured by French,MP,,French
+10/12/1799,Almy,brigantine,USA,2 privateers,France,off northeast end of Jamaica,18.717481,-75.803835,Almy captured,ASP2:39,Captured by French,MP,,French
+3/5/1797,Lady Walterdorf,brig,USA,Poline,France,10 leagues NW of Martinique,15.22,-60.616,Lady Walterdorf captured,ASP2:39,Captured by French,MP,,French
+1/16/797,Eliza,brig,USA,La Pancy and Thetis,France,"15o15N,59W",15.25,-59,Eliza captured  ,ASP2:40,Captured by French,MN,,French
+12/28/1797,Pattern,ship,USA,Trompeuse,France,4 leagues north of Square Handkerchief,21.3138,-70.45,Pattern captured,ASP2:41,Captured by French,MP,,French
+1/15/1797,Valeria,ship,USA,Souveraine,France,4-5 leagues from Cape Maize,20.413,-74.1,Valeria captured,ASP2:44,Captured by French,MP,,French
+1/30/1797,Commerce,ship,USA,privateer,France,"18o2N,60o10W",18.33,-60.16,Commerce captured,ASP2:45,Captured by French,MP,,French
+12/27/1796,Trio,brig,USA,Trompeuse,France,off Grand Turk,21.464888,-71.209672,Trio captured,ASP2:48,Captured by French,MP,,French
+10/23/1796,Diana,ship,USA,Vengeur,France,"49o31N,9o30W",49.516,-9.5,Diana captured,ASP2:52,Captured by French,MP,,French
+5/18/1797,Telemachus,brig,USA,2 launches,France,within cannon-shot of Alicant,38.325662,-0.430295,Telemachus captured,QW1:34,Captured by French,MP,,French
+5/18/1797,Pomona,ship,USA,2 launches,France,within cannon-shot of Alicant,38.325662,-0.430295,Pomona captured,QW1:34,Captured by French,MP,,French
+5/18/1797,Abigail,schooner,USA,2 launches,France,within cannon-shot of Alicant,38.325662,-0.430295,Abigail captured,QW1:34,Captured by French,MP,,French
+5/18/1797,Eliza,brig,USA,2 launches,France,within cannon-shot of Alicant,38.325662,-0.430295,Eliza captured,QW1:34,Captured by French,MP,,French
+1/15/1797,Ann and Mary,ship,USa,Vulture,France,"49o25N,11W",49.4166,-11,Ann and Mary captured,QW1:34,Captured by French,MP,,French
+4/14/1798,Commerce,brig,USA,Revenge,France,"36N,26W",36,-26,Commerce plundered,QW1:54,Plundered by French,MP,,French
+7/5/1798,Eliza,ship,USA,L'Heureux Decide,France,"48.35N,13W",48.35,-13,Eliza captured,QW1:164,Captured by French,MP,,French
+7/7/1798,USS Delaware,sloop,USA,Le Croyable,France,off Great Egg Harbour Bay,39.247643,-74.383778,Croyable captured,QW1:176,Captured by Americans,NP,,American
+7/6/1798,Alexander Hamilton,ship,USA,Le Croyable,France,off Little Egg Harbour,39.58304,-74.184449,Alexander Hamilton plundered,QW1:178,Plundered by French,MP,,French
+7/23/1798,Hetty Jane,ship,USA,privateer,France,500 miles from Charleston,27.901,-73.45,Hetty Jane captured,QW1:235,Captured by French,MP,,French
+7/28/1798,Planter,brig,USA,privateer,France,Cape Antonio SE 4 or 5 leagues,22.136,-85.1,Planter captured,QW1:248,Captured by French,MP,Planter's crew able to retake ship,French
+7/28/1798,Friendship,ship,USA,privateer,France,lat 29,29.075393,-75.436673,Friendship captured,QW1:251,Captured by French,MP,,French
+9/9/1798,USS Constitution,frigate,USA,Niger,France,lat 34o11,34.180014,-71.877103,Niger captured,QW1:385,Captured by Americans,NP,,American
+9/12/1798,Liberty,ship,USA,schooner,France,"13o3N,58W",13.05,-58,Liberty captured,QW1:399,Captured by French,MP,,French
+10/10/1798,Two Friends,ship,USA,Good Fortune,France,"28N,28W",28,-28,Two Friends captured,QW1:570,Captured by French,MP,Two Friends' crew recaptured,French
+11/20/1798,USS Baltimore,sloop,USA,privateer,France,off Havana,23.261529,-82.404379,privateer captured,QW2:21,Captured by Americans,NP,,American
+11/30/1798,Polly,brig,USA,privateer,France,"20o20N,66o59W",20.333,-66.98,chase but no shots fired,QW2:23,Engagement but no capture,MP,,none
+10/7/1798,Amphitrite,schooner,USA,Fleur de la Mer,France,Island de Aves,15.662832,-63.6,Amphitrite plundered,QW2:150,Plundered by French,MP,,French
