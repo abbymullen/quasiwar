@@ -71,7 +71,7 @@ var map = L.map('map', {
     layer.bindPopup(popupText(feature.properties), 
       {maxWidth: 300, minWidth: 250, maxHeight: 160, autoPan: true, closeButton: true, autoPanPadding: [5, 5]}
       );
-        layer.setIcon(customIcon);
+        layer.setIcon(greenIcon);
 
   // }
 }
@@ -80,18 +80,25 @@ function popupText(f) {
   return f.date + "<br>" + "<strong>" + f.ship_1 + " (" + f.nationality_1 + ") v. " + f.ship_2 + " (" + f.nationality_2 + ") " + "</strong>"+ "<br>"  + f.outcome;
 }
 
-var customIcon = L.icon({
-    iconUrl: 'filled13.png',
+var customIcon = L.Icon.extend({
+  options: {
+    // iconUrl: 'filled13.png',
     iconSize: [9, 9], //size of the icon in pixels
     iconAnchor: [0, 0], //point of the icon which will correspond to marker's location (the center)
     popupAnchor: [0, 0] //point from which the popup should open relative to the iconAnchor
+  }
 });
+
+var greenIcon = new customIcon({iconUrl: 'green_dot.png'}),
+    redIcon = new customIcon({iconUrl: 'red_dot.png'}),
+    blueIcon = new customIcon({iconUrl: 'blue_dot.png'}),
+    brownIcon = new customIcon({iconUrl: 'brown_dot.png'});
 
 var annotations = omnivore.csv('QW_Encounters.tsv')
 .on('ready', function() {
   map.addLayer(annotations);
   annotations.eachLayer(eachLayer);
-    // marker.setIcon(customIcon);
+ // marker.setIcon(greenIcon);
     // var popupText =
     //   marker.toGeoJSON().properties.date + "<br>" + "<strong>" + properties.ship_1 + " (" + properties.nationality_1 + ") v. " + properties.ship_2 + " (" + properties.nationality_2 + ") " + "</strong>"+ "<br>"  + properties.outcome;
             // if (marker.toGeoJSON().properties.outcome === 'Captured by French') {
