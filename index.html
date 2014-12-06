@@ -86,9 +86,10 @@ var customIcon = L.icon({
 });
 
 var annotations = omnivore.csv('QW_Encounters.tsv')
-.on('ready', function(layer) {
-  this.eachLayer(function(marker) {
-    marker.setIcon(customIcon);
+.on('ready', function() {
+  map.addLayer(annotations);
+  annotations.eachLayer(eachLayer);
+    // marker.setIcon(customIcon);
     // var popupText =
     //   marker.toGeoJSON().properties.date + "<br>" + "<strong>" + properties.ship_1 + " (" + properties.nationality_1 + ") v. " + properties.ship_2 + " (" + properties.nationality_2 + ") " + "</strong>"+ "<br>"  + properties.outcome;
             // if (marker.toGeoJSON().properties.outcome === 'Captured by French') {
@@ -99,8 +100,8 @@ var annotations = omnivore.csv('QW_Encounters.tsv')
             // } else {
             //     marker.setIcon(L.icon({}));
             // };
-    marker.bindPopup(popupText);
-        });
+    // marker.bindPopup(popupText);
+        // });
 });
 
 
