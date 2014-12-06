@@ -71,6 +71,8 @@ var map = L.map('map', {
     layer.bindPopup(popupText(feature.properties), 
       {maxWidth: 300, minWidth: 250, maxHeight: 160, autoPan: true, closeButton: true, autoPanPadding: [5, 5]}
       );
+        layer.setIcon(customIcon);
+
   // }
 }
 
