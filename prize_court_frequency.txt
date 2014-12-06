@@ -1,0 +1,52 @@
+"","x"
+"Almeria",1
+"Barracoa, Cuba",1
+"Bologne",1
+"Calais",1
+"Cape of Good Hope",1
+"Cayenne",1
+"Dieppe",1
+"Dunkirk",1
+"Isle of France",1
+"Jacmel",1
+"Madrid",1
+"Marseilles",1
+"New Orleans",1
+"San Juan, PR",1
+"St. Bartholomews",1
+"St. Marks",1
+"St. Thomas",1
+"Tarifa",1
+"Teneriffe",1
+"Vigo",1
+"",2
+"Bayonne",2
+"Bordeaux",2
+"Cabo Raxa, PR",2
+"Gonaives",2
+"Havana",2
+"Isle of Rhee",2
+"Jean Rabel",2
+"LaRochelle",2
+"Morlaix",2
+"Algeciras",3
+"Brest",4
+"L'Orient",4
+"Petit Trou",4
+"Cadiz",5
+"Curacao",5
+"Lancea Veau",5
+"Miragoane",5
+"Porto Rico",5
+"St. Domingo",6
+"Petit Guave",7
+"Carthagena",8
+"Port de Paix",8
+"Malaga",9
+"St. Martins",9
+"Cape Francois",14
+"Nantes",16
+"none",16
+"Leogane",27
+"St. Jago, Cuba",30
+"Guadeloupe",41
