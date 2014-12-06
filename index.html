@@ -27,6 +27,7 @@ h1 {color:white;}
 		<div class="small-12 columns">
 	<h1><strong>Encounters in the Quasi-War</strong></h1>
 	<p style="color:white;">From 1798 to 1800, the United States and France engaged in an undeclared naval war, often called the Quasi-War. This map represents just a fraction of the encounters between American and French vessels (I would estimate less than one of four). Most of the actions between American merchants and French armed vessels (both privateers and naval vessels) were not recorded with enough spatial detail to make a guess about where they happened.<br>Even on this map, locations are only approximate for many of the encounters, whose locations were recorded with vague locations such as "near Guadeloupe" or "between St. Kitts and Antigua." For these, I selected a location with my best guess based on a possible path between the vessel's origin and destination, if it was available.  </p>
+  <p style="color:white; text-align:center;"><img src='red_dot.png' style="width:12px;height:12px"> American victory&nbsp;&nbsp;&nbsp;&nbsp;<img src='green_dot.png' style="width:12px;height:12px">  French victory&nbsp;&nbsp;&nbsp;&nbsp;<img src='blue_dot.png' style="width:12px;height:12px">  British victory&nbsp;&nbsp;&nbsp;&nbsp;<img src='brown_dot.png' style="width:12px;height:12px">  Encounter but no victory either side</p>
 </div>
 </div>
 <div class="row">
@@ -37,14 +38,10 @@ h1 {color:white;}
   <div class="small-12 columns;">
     <p style="color:white; text-align:center">Carleton, Osgood, and William Norman. <a href='http://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~3773~360053:A-new-general-chart-of-the-West-Ind?sort=date&qvq=q:caribbean;sort:date;lc:RUMSEY~8~1&mi=11&trs=274'><em>A new general chart of the West Indies.</em></a> 1789. David Rumsey Historical Map Collection.</p>
   </div>
+
 </div>
 </body>
 <script>
-// var annotations = new L.LayerGroup();
-
-// L.marker([23.463241,-82.648825]).bindPopup('<h4><em>America</em> v. privateer</h4><br><p>shots fired</p>',{maxWidth: 400, minWidth: 250, maxHeight: 200, autoPan: true, closeButton: true, autoPanPadding: [5, 5]}).addTo(annotations),
-// L.marker([36.071505,-5.347424]).bindPopup('<h4><em>American</em> v. 3 privateers</h4><br><p><em>American</em> beat off privateers',{maxWidth: 400, minWidth: 250, maxHeight: 200, autoPan: true, closeButton: true, autoPanPadding: [5, 5]}).addTo(annotations),
-// L.marker([29,-53]).bindPopup('<h4><em>Amphitrite</em> v. privateer</h4><br><p><em>Amphitrite</em> ran after running out of ammunition', {maxWidth: 400, minWidth: 250, maxHeight: 200, autoPan: true, closeButton: true, autoPanPadding: [5, 5]}).addTo(annotations);
 
 
 var osm = new L.TileLayer(
@@ -125,7 +122,7 @@ var baseMaps = {
 var overlayMaps = {
 	"1787": layer1,
 	// "1881": layer2,
-	"French": french,
+	"Encounters": french,
   // "American": american
 };
 
