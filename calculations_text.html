@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/foundation/5.1.1/css/normalize.min.css">
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/foundation/5.1.1/css/foundation.min.css">
+
+<style>
+body {background-color:white;}
+h1 {color:black;}
+p {color:black;}
+</style>
+</head>
+
+<body>
+
+<div class="row">
+		<div class="small-12 columns">
+<h2>Creating This Map</h2>
+<p>Plotting Quasi-War captures is not an exact science. My methods are a combination of primary-source research, computations, and intelligent estimation.</p>
+
+<p>Ships are always moving; therefore, tracking their exact location in any given span of time is virtually impossible. No capture is instantaneous, so tracking where a ship was at the exact time of its capture is not feasible. The best we can do is to record where the two ships first engaged. This is, in itself, an inexact measure--most commanders did not take their exact bearing while being attacked (though some did). Even these more specific records cannot possibly be verified. But then again, up to a certain point, the exact location is not really critical.</p>
+
+<p>Some commanders, particularly those of official ships, did take scrupulous bearings every day and whenever anything interesting happened. Thomas Truxtun, possibly the most verbose officer in the U.S. Navy, was responsible for detailed and (as far as I can tell) accurate bearings; a few others followed his lead.</p>
+
+<p>More frequently, though, locations looked more like this:<br>
+Nevis WSW 5 leagues,<br>
+under the lee of Guadeloupe, or<br>
+16 or 17 leagues from Cape Clear, lat 51o20'N.</p>
+
+<p>In order to figure out where these locations really are, it's necessary to do some calculations. I used <a href='http://www.movable-type.co.uk/scripts/latlong.html'>this script</a> to calculate a location based on one point (e.g., Nevis), a bearing (WSW), and a distance (5 leagues). (I used a simple click on Google Maps to get the latitude and longitude of the reference point, though I could have easily written an R script to do all the geocoding.)</p>
+
+<p>But even finding the reference point is not an entirely simple process. The place names recorded by ships' captains have often either changed or completely disappeared, and so merely searching in Google, or writing a script for geocoding, only throws up errors. While a Google search can often illuminate historical name changes (for instance, Cape Francois, a very important port in the Quasi-War, is now called Cape Haitien), sometimes the places are too obscure, or the name used is too unusual (or badly spelled), to yield any answers from a simple search.</p>
+
+<p>To figure out where these places are, the easiest place to turn is to a historical map. In order for a historical map to be useful, however, it needs to be georectified, or aligned with a modern coordinate reference system. Nineteenth-century maps are remarkably inaccurate, so georectification is a difficult process. You can see from the map that the coast of Latin America, for instance, and a good number of islands in the Windward and Leeward Islands, are highly distorted, despite my use of almost 300 control points. The shape of islands and coastal peninsulas are particularly inaccurate. But even a distorted map can help us answer questions of place names.</p>
+
+<p>One place that kept coming up in the primary sources was variously spelled "Desada," "Deseada," "Descada," and probably other ways. None of those spellings yielded any search results. But this place was very commonly used as a reference by sailors, so it was important that I figure out where it was. I had a few hints (I knew it was in the Caribbean, possibly close to Guadeloupe), but it was not until I had investigated the georectified map that I found it: spelled "Deseada" on the 1787 map, and in slightly the wrong place, it is the modern name of the island La Desirade. This is just one example of the usefulness of a georectified map.</p>
