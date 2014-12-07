@@ -1,4 +1,4 @@
-prize_court,hearings,long,lat
+prize_court,hearings,longitude,latitude
 "Almeria",1,-2.463714,36.83405
 "Barracoa, Cuba",1,-74.51056,20.34861
 "Bologne",1,11.34262,44.49489
